@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
-| [**`heyui-wechat` HeyUI 一个基于css的高质量UI组件库.**](https://github.com/geekxzClub/heyui-wechat) | <img src="https://img.shields.io/github/stars/geekxz/lucky-canvas?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxz/lucky-canvas?style=social" height="22" align="top" /> |
-| [**`heyui-blog`** 😄 基于heyui写的个人博客静态页面，欢迎各位小伙伴⭐star。持续更新！🔥👉🏻 功能描述（文章管理、分类管理、用户会员管理、投稿功能）](https://github.com/geekxzClub/heyui-blog) | <img src="https://img.shields.io/github/stars/geekxz/mini-sandbox?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxz/mini-sandbox?style=social" height="22" align="top" /> |
+| [**`heyui-wechat` HeyUI 一个基于css的高质量UI组件库.**](https://github.com/geekxzClub/heyui-wechat) | <img src="https://img.shields.io/github/stars/geekxzClub/heyui-wechat?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/heyui-wechat?style=social" height="22" align="top" /> |
+| [**`heyui-blog`** 😄 基于heyui写的个人博客静态页面，欢迎各位小伙伴⭐star。持续更新！🔥👉🏻 功能描述（文章管理、分类管理、用户会员管理、投稿功能）](https://github.com/geekxzClub/heyui-blog) | <img src="https://img.shields.io/github/stars/geekxzClub/heyui-blog?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/heyui-blog?style=social" height="22" align="top" /> |
 
 <br />
