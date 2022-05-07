@@ -30,3 +30,12 @@ Here are some ideas to get you started:
 ## 汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=geekxz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekxz&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
+
+## 个人项目
+
+| 项目 | Stars | Forks |
+| --- | --- | ---|
+| [**`heyui-wechat` HeyUI 一个基于css的高质量UI组件库.**](https://github.com/geekxzClub/heyui-wechat) | <img src="https://img.shields.io/github/stars/geekxzClub/lucky-canvas?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/lucky-canvas?style=social" height="22" align="top" /> |
+| [**`heyui-blog`** 😄 基于heyui写的个人博客静态页面，欢迎各位小伙伴⭐star。持续更新！🔥👉🏻 功能描述（文章管理、分类管理、用户会员管理、投稿功能）](https://github.com/geekxzClub/heyui-blog) | <img src="https://img.shields.io/github/stars/geekxzClub/mini-sandbox?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/mini-sandbox?style=social" height="22" align="top" /> |
+
+<br />
