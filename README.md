@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## 我是陈东东 🤔
 
 - 🐧 全栈攻城狮，编程知识博主
@@ -27,15 +26,20 @@ Here are some ideas to get you started:
 - 👬 QQ 编程交流群：689112212 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi">
 <img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一起学编程的朋友们" title="一起学编程的朋友们"></a>
 
-## 汇总 ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=geekxz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekxz&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
 
 ## 个人项目
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
 | [**`heyui-wechat` HeyUI 一个基于css的高质量UI组件库.**](https://github.com/geekxzClub/heyui-wechat) | <img src="https://img.shields.io/github/stars/geekxzClub/heyui-wechat?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/heyui-wechat?style=social" height="22" align="top" /> |
-| [**`heyui-blog`** 😄 基于heyui写的个人博客静态页面，欢迎各位小伙伴⭐star。持续更新！🔥👉🏻 功能描述（文章管理、分类管理、用户会员管理、投稿功能）](https://github.com/geekxzClub/heyui-blog) | <img src="https://img.shields.io/github/stars/geekxzClub/heyui-blog?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/heyui-blog?style=social" height="22" align="top" /> |
+
+| [**`heyui-blog`** 😄 基于heyui写的个人博客静态页面，欢迎各位小伙伴⭐star。](https://github.com/geekxzClub/heyui-blog) | <img src="https://img.shields.io/github/stars/geekxzClub/heyui-blog?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxzClub/heyui-blog?style=social" height="22" align="top" /> |
+
+| [**`heyui-admin-tp5.0`** 😄  基于thinkphp框架做的一个通用后端管理后台.欢迎各位小伙伴⭐star。](https://github.com/geekxz/heyui-admin-tp5.0) | <img src="https://img.shields.io/github/stars/geekxz/heyui-admin-tp5.0?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/geekxz/heyui-admin-tp5.0?style=social" height="22" align="top" /> |
 
 <br />
+
+
+## 汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=geekxz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekxz&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
